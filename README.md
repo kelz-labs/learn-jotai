@@ -48,9 +48,11 @@ Yep, mirip banget kan dengan `useState`?
 Beberapa referensi untuk belajar jotai: 
 
 a. Dokumentasi: https://jotai.org/
+
 b. Videonya pak Jack Herrington: 
    - https://www.youtube.com/watch?v=x9usS4l1VD0 
    - https://www.youtube.com/watch?v=eVfw4pRDUIY
+   
 c. Course jotai di Egghead langsung dari Daishi Kato: https://egghead.io/courses/manage-application-state-with-jotai-atoms-2c3a29f0 
 
 Sedikit saran buat yang mau belajar dari Free Course Daishi Katou nya: di beberapa bagian video, **coba lambatkan temponya, karena agak kecepetan kalo menurutku.**
